@@ -1,2 +1,2 @@
 # Tube Flix  
-This is a front-end application deploed in firebase.
+This is a React.JS front-end based application deployed in firebase.
