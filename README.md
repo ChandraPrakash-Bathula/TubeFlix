@@ -29,7 +29,7 @@ Welcome to TubeFlix, a video streaming platform built using React, Tailwind CSS,
 - **react-icons**
 - **react-player**
 
-## Usage 🍕
+## Usage 🏆
 Follow these steps to get TubeFlix running on your local machine:
 
 1. **Clone the Repository**: Clone the TubeFlix GitHub repository to your local system.
